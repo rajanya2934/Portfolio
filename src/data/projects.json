@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Zomato Dynamic Dashboard",
+    "imageSrc": "projects/Zomato.jpg",
+    "description": "Developed dynamic Zomato dashboard using Power BI, incorporating AI integration, automation and data modeling.",
+    "skills": ["Power BI", "MS Excel"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A portfolio website showcasing my projects, skills to potential employers or clients.",
+    "skills": ["HTML", "CSS", "Java script", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Multiple Disease Predicition",
+    "imageSrc": "projects/project.png",
+    "description": "ML model using diverse data types, enhancing personalized healthcare and early detection.",
+    "skills": ["Python", "Jupytar"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
